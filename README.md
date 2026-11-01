@@ -24,11 +24,11 @@ Falls `python` unter Windows nicht verfügbar ist, kann alternativ `py -m http.s
 
 Vorgesehene URLs:
 
-- [GitHub-Pages-Startseite](https://johannkern.github.io/TiaArchiveExporter/)
-- [Landingpage direkt](https://johannkern.github.io/TiaArchiveExporter/tia-archive-exporter-landingpage.html)
-- [Bedienungsanleitung direkt](https://johannkern.github.io/TiaArchiveExporter/tia-archive-exporter-bedienungsanleitung.html)
+- [GitHub-Pages-Startseite](https://johannkern.github.io/TiaArchiveExporterLandingpage/)
+- [Landingpage direkt](https://johannkern.github.io/TiaArchiveExporterLandingpage/tia-archive-exporter-landingpage.html)
+- [Bedienungsanleitung direkt](https://johannkern.github.io/TiaArchiveExporterLandingpage/tia-archive-exporter-bedienungsanleitung.html)
 
-**Veröffentlichungsstatus:** Diese Links werden erst erreichbar, wenn das Repository öffentlich ist und GitHub Pages aktiviert wurde. Die Projektseite muss unter **Settings → Pages → Build and deployment** mit **Deploy from a branch**, Branch **`main`** und Ordner **`/(root)`** eingerichtet werden. Für ein öffentlich erreichbares Pages-Angebot muss dieses persönliche Repository öffentlich sein.
+**Veröffentlichungsstatus:** Das Repository ist öffentlich. Die Links werden erreichbar, sobald GitHub Pages unter **Settings → Pages → Build and deployment** mit **Deploy from a branch**, Branch **`main`** und Ordner **`/(root)`** aktiviert und der erste Deployment-Lauf abgeschlossen ist.
 
 ## Dateien
 
@@ -38,4 +38,4 @@ Vorgesehene URLs:
 
 ## Repository
 
-[JohannKern/TiaArchiveExporter auf GitHub](https://github.com/JohannKern/TiaArchiveExporter)
+[JohannKern/TiaArchiveExporterLandingpage auf GitHub](https://github.com/JohannKern/TiaArchiveExporterLandingpage)
