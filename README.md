@@ -28,7 +28,7 @@ Vorgesehene URLs:
 - [Landingpage direkt](https://johannkern.github.io/TiaArchiveExporterLandingpage/tia-archive-exporter-landingpage.html)
 - [Bedienungsanleitung direkt](https://johannkern.github.io/TiaArchiveExporterLandingpage/tia-archive-exporter-bedienungsanleitung.html)
 
-**Veröffentlichungsstatus:** Das Repository ist öffentlich. Die Links werden erreichbar, sobald GitHub Pages unter **Settings → Pages → Build and deployment** mit **Deploy from a branch**, Branch **`main`** und Ordner **`/(root)`** aktiviert und der erste Deployment-Lauf abgeschlossen ist.
+**Veröffentlichungsstatus:** Die Website ist veröffentlicht. Der erste GitHub-Pages-Deployment-Lauf war erfolgreich.
 
 ## Dateien
 
